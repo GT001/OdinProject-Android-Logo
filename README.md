@@ -1,5 +1,5 @@
 # TheOdinProject-Android-Logo
 
-Goal recreate the Android Log using CSS
+Goal: Recreate the Android Logo using CSS
 
-[View in Browser](https://gt001.github.io/OdinProject-Android-Logo/index.html)
+[View in Browser](https://gt001.github.io/TheOdinProject-Android-Logo/index.html)
